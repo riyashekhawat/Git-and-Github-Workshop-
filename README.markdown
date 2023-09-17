@@ -383,8 +383,8 @@ better (Ask for help if stumped)
 Once I have done that, I can then mark the conflict as fixed by using
 `git add` and `git commit`.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png)
-Stuck? Ask for help from the workshop staff
+
+Stuck? Ask for help from the volunteers or google it that is even better  
 
     $ git add gamow.txt
     $ git commit -m "Fixed conflict"
@@ -409,14 +409,14 @@ Now You can choose two tracks, either Part II (below) which covers time travel a
 mangling your git history, or Part III (even below-er) which covers Github pull
 requests and cat gifs.
 
-Part II
+Part II  Comming soon 
 =======
 
 Check out the `revert` branch on this repository for further instructions!
-You can always get back to this version of the readme by checking out the master
+You can always get back to this version of the readme by checking out the main
 branch.
 
-Part III
+Part III Comming soon 
 ========
 
 GitHub
@@ -489,11 +489,4 @@ I throughly recommend these resources to continue your Git practice:
 -   <a href="http://gitref.org">http://gitref.org</a>
 -   <a href="http://www.kernel.org/pub/software/scm/git/docs/everyday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
 
-Author
-------
 
-This work is licensed under the Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0 License\
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</a>\
-Author: Thong Kuah\
-Contributors: Andy Newport, Nick Malcolm
